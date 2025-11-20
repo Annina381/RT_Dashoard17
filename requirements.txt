@@ -1,0 +1,7 @@
+#requirements txt
+
+streamlit
+pandas
+matplotlib
+seaborn
+openpyxl
